@@ -1,0 +1,10 @@
+2022-04-14 22:13:28.541 [main] DEBUG revature.loggingExample.App - Debugging now!
+
+2022-04-14 22:13:28.546 [main] INFO  revature.loggingExample.App - This is some information for the user
+
+2022-04-14 22:13:28.546 [main] WARN  revature.loggingExample.App - Warning! This may create an error
+
+2022-04-14 22:13:28.546 [main] ERROR revature.loggingExample.App - You've just made an error sir
+
+2022-04-14 22:13:28.546 [main] FATAL revature.loggingExample.App - You've not only made an error, you've also crashed your whole program
+
